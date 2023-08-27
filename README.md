@@ -12,9 +12,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+- Linode (Virtual Machines/Compute)
+- Docker
+- CLI
 
 <h2>Operating Systems Used </h2>
 
@@ -22,19 +22,25 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Linode Account
 
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/a4nR9RT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/GTLiXoD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/GUxNfmg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<img src="https://i.imgur.com/VVhSMbi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<img src="https://i.imgur.com/6eFJ99o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Go to Linode and make a free account. Free account will give you $100 credit for 60 days. Once that is created you will then go to create Linode. Go to marketplace. Search and select Peppermint. After selected you will configure the linode. Use Ubuntu 20.04 LTS. As for plan select anywhere from 2GB to 8GB I run it with 4GB just fine.
 </p>
 <br />
 
