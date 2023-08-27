@@ -45,10 +45,22 @@ Go to Linode and make a free account. Free account will give you $100 credit for
 <br />
 
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YAQsidf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/XDBpbql.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/AT4zNzR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/Mhk3Q1h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/0iPkZJG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next you will want to open the LISH console and login to the root ssh. Or you can simply use your own built in terminal. That is what I prefer. After getting root into the ssh. Run the command docker ps. This will show you that your docker container is running and what port it will be on. Which is 5001. You will find your reverse DNS in the network tab on linode website. Copy that. Paste in your browser bar with :5001 behind it or whatever port you are given. You will then put in the default information. Admin@admin.com and  password will be 1234. 
 </p>
 <br />
 
