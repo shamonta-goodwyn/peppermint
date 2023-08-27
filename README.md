@@ -1,14 +1,14 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/3IiTnEf.png" alt="peppermint.sh logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1>Self Host Helpdesk - Peppermint.sh</h1>
+This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system Peppermint.sh.<br />
 
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+- ### [YouTube: host your own HelpDesk](https://www.youtube.com/watch?v=Kq0BMVhbFkA&t=5s)
 
 <h2>Environments and Technologies Used</h2>
 
