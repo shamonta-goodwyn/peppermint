@@ -74,7 +74,7 @@ Next you will want to open the LISH console and login to the root ssh. Or you ca
 <img src="https://i.imgur.com/cybKkor.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://imgur.com/a/gg58GoW" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vNeeqhx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 At this point you will be able to; create tickets, users to assign the tickets to. Clients as well to mimic someone putting a ticket request. Its quite simple yet effective at building a foundation for understanding the SLA's. Have fun and be creative.
